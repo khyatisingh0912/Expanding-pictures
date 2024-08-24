@@ -1,2 +1,2 @@
 # Expanding-pictures
-languages used HTML,CSS,JavaScript,php
+languages used HTML,CSS,JavaScript,Tailwind CSS
